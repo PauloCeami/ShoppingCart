@@ -26,8 +26,9 @@ Trocar nome da pasta em config.php, em  'PrecodeShop/');
 Arquivo de conexão com banco de dados App/model/Connection.php
 
 
-**HOME PAGINA DE COMPRAS**
+**SINGLE PAGE DO PRODUTO**
 ![shop](precode1.png)
 
-**SINGLE PAGE DO PRODUTO**
+
+**HOME PAGINA DE COMPRAS**
 ![shop](precode2.png)
