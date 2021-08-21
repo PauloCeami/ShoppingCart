@@ -1,11 +1,11 @@
-# ShoppingCart
-Projeto Carrinho de compras para estudo desenvolvido em PHP 7, Composer, Xamp, PDO e Mysql
+# ShoppingCart (PHP 7, Composer, Xamp, PDO, MVC, DAO e Mysql)
+Projeto Carrinho de compras para estudo desenvolvido em PHP 7, Composer, Xamp, PDO, MVC, DAO e Mysql
 
-*FOLDER NAME IN HTDOCS OU WWW*
+**FOLDER NAME IN HTDOCS OU WWW**
 Trocar nome da pasta em config.php, OU deixar em branco in production - PrecodeShop/
 define("BASE_URL", 'http://' . $_SERVER['SERVER_NAME'] . '/' . 'PrecodeShop/');
 
-*CONEXAO*
+**CONEXAO DATABASE**
 Arquivo de conexão com banco de dados App/model/Connection.php
 
 
